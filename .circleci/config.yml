@@ -87,7 +87,7 @@ jobs:
           command: ./assertj-test.sh ${VERSION} 3.9.1 only-assertj
       - run:
           working_directory: compat-tests
-          command: ./assertj-test.sh ${VERSION} 3.27.6 only-assertj
+          command: ./assertj-test.sh ${VERSION} 3.27.7 only-assertj
       - run:
           working_directory: compat-tests
           command: ./jaxb-test.sh ${VERSION} javax

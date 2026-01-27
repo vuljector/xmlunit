@@ -2,7 +2,7 @@
 
 ## XMLUnit for Java 2.11.1 - /not released, yet/
 
-* bumped xmlunit-assertj3's dependency on assert to 3.27.6.
+* bumped xmlunit-assertj3's dependency on assert to 3.27.7.
 
   This is to make people aware of
   https://github.com/assertj/assertj/security/advisories/GHSA-rqfh-9r24-8c9r
@@ -11,7 +11,8 @@
   the xmlunit-assertj module is not updated. In fact the assertions provided by xmlunit-assertj3 are the recommended
   upgrade path for users of AssertJ 4.x.
 
-  PR [#320](https://github.com/xmlunit/xmlunit/pull/320)
+  PRs [#320](https://github.com/xmlunit/xmlunit/pull/320) and
+  [#321](https://github.com/xmlunit/xmlunit/pull/321)
 
 ## XMLUnit for Java 2.11.0 - /Released 2025-10-24/
 
